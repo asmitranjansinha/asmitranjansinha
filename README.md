@@ -28,8 +28,8 @@ var person = {
 ![](https://github-profile-trophy.vercel.app/?username=asmitranjansinha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝Rhaegar fought valiantly, Rhaegar fought nobly, Rhaegar fought honorably. And Rhaegar died. <br> — Jorah Mormont❞</i>
-...<!--ENDS_HERE_QUOTE_README-->
+<i>❝Rhaegar fought valiantly, Rhaegar fought nobly, Rhaegar fought honorably. And Rhaegar died.❞ ... <br> — Jorah Mormont</i>
+<!--ENDS_HERE_QUOTE_README-->
 
 ![](https://komarev.com/ghpvc/?username=asmitranjansinha&color=red)
 
