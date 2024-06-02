@@ -17,23 +17,19 @@ var person = {
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/azmy8h) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/asmy8h/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCONdVtZ-_QG4cYndN4Ztf-g) <br> 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmitranjansinha&theme=radical)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmitranjansinha&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmitranjansinha&theme=moonlight)
+<a href="https://github.com/bloedboemmel">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=asmitranjansinha&theme=radical"  height="200"/>
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asmitranjansinha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+... <!--STARTS_HERE_QUOTE_README-->
+<i>❝Rhaegar fought valiantly, Rhaegar fought nobly, Rhaegar fought honorably. And Rhaegar died. <br> — Jorah Mormont❞</i>
+...<!--ENDS_HERE_QUOTE_README-->
 
 ![](https://komarev.com/ghpvc/?username=asmitranjansinha&color=red)
 
