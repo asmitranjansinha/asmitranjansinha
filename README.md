@@ -23,6 +23,7 @@ var person = {
 <a href="https://github.com/bloedboemmel">
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=asmitranjansinha&theme=radical"  height="200"/>
 </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=asmitranjansinha&theme=radical&card_width=395&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asmitranjansinha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
