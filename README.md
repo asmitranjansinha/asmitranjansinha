@@ -1,11 +1,13 @@
 I am a final-year computer science grad.
-Passionate developer with experience in building and scaling products across mobile, web and backend systems. I’ve led teams, re-architected systems for performance and scalability, and improved development efficiency through optimized workflows. My journey includes managing cross-functional teams, enhancing platform security, and delivering impactful solutions.
+Passionate developer with experience building and scaling products across mobile, web and backend systems. I’ve led teams, re-architected systems for performance and scalability, and improved development efficiency through optimized workflows. My journey includes managing cross-functional teams, enhancing platform security, and delivering impactful solutions.
 
-Beyond my professional work, my startup was selected for a global startup bootcamp, ranking among the top 81 out of 1,500+ participants. I thrive in solving complex problems, driving innovation, and continuously improving products.
+Beyond my professional work, my startup was selected for a global startup boot camp, ranking among the top 81 out of 1,500+ participants. I thrive in solving complex problems, driving innovation, and continuously improving products.
 
 🚀 Always exploring new ideas, contributing to open source, and refining my skills.
 
 🪜 Currently building LApp (https://lapp.learnwithone.co.in)
+
+📩 For work-related queries, contact at: mailto:sinhaasmit99@gmail.com
 
 ### Languages
 
