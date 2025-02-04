@@ -7,6 +7,12 @@ Beyond my professional work, my startup was selected for a global startup boot c
 
 🪜 Currently building LApp (https://lapp.learnwithone.co.in)
 
+💼 Previously 
+- asmi (https://play.google.com/store/apps/details?id=com.anjanajyoti.asmi&hl=en_IN)
+- Memoneet (https://www.memoneet.com/)
+- dappunk (https://dappunk.com/)
+- Laysan (https://laysantechnologies.com/)
+
 📩 For work-related queries, contact at: mailto:sinhaasmit99@gmail.com
 
 ### Languages
