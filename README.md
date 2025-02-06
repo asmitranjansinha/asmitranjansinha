@@ -1,7 +1,6 @@
-I am a final-year computer science grad.
-Passionate developer with experience building and scaling products across mobile, web and backend systems. I’ve led teams, re-architected systems for performance and scalability, and improved development efficiency through optimized workflows. My journey includes managing cross-functional teams, enhancing platform security, and delivering impactful solutions.
+I’m a final-year computer science student with experience in building and scaling mobile, web, and backend systems. I’ve led teams, redesigned systems for better performance, and improved development workflows. My work includes managing teams, strengthening platform security, and delivering practical solutions.
 
-Beyond my professional work, my startup was selected for a global startup boot camp, ranking among the top 81 out of 1,500+ participants. I thrive in solving complex problems, driving innovation, and continuously improving products.
+Outside of work, my startup was selected for a global startup boot camp, ranking in the top 81 out of 1,500+ participants. I enjoy solving complex problems, creating new solutions, and refining products.
 
 🚀 Always exploring new ideas, contributing to open source, and refining my skills.
 
