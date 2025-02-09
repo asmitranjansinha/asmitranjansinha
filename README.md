@@ -36,6 +36,7 @@ Outside of work, my startup was selected for a global startup boot camp, ranking
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=GCP&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
