@@ -4,7 +4,7 @@ Outside of work, my startup was selected for a global startup boot camp, ranking
 
 🚀 Always exploring new ideas, contributing to open source, and refining my skills.
 
-🪜 Currently building LApp (https://lapp.learnwithone.co.in)
+🪜 Currently building Logic Bloom (Previously LApp) (https://logicbloom.co.in)
 
 💼 Previously 
 - asmi (https://play.google.com/store/apps/details?id=com.anjanajyoti.asmi&hl=en_IN)
