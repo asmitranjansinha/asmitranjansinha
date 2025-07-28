@@ -1,10 +1,12 @@
-I’m a final-year computer science student with experience in building and scaling mobile, web, and backend systems. I’ve led teams, redesigned systems for better performance, and improved development workflows. My work includes managing teams, strengthening platform security, and delivering practical solutions.
+I’m a software engineer with experience in building and scaling mobile, web, and backend systems. I’ve led teams, redesigned systems for better performance, and improved development workflows. My work includes managing teams, strengthening platform security, and delivering practical solutions.
 
 Outside of work, my startup was selected for a global startup boot camp, ranking in the top 81 out of 1,500+ participants. I enjoy solving complex problems, creating new solutions, and refining products.
 
 🚀 Always exploring new ideas, contributing to open source, and refining my skills.
 
 🪜 Currently building Logic Bloom (Previously LApp) (https://logicbloom.co.in)
+
+💼 Neosurge (https://neosurge.money)
 
 💼 Previously 
 - asmi (https://play.google.com/store/apps/details?id=com.anjanajyoti.asmi&hl=en_IN)
